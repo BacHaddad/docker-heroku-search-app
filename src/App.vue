@@ -17,6 +17,13 @@ export default {
 </script>
 
 <style>
+
+img {
+  border-radius: 40rem;
+  max-width: 30%;
+  margin-bottom: 4rem ;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
