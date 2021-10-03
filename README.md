@@ -1,5 +1,5 @@
 # search-app
-Deployed to Heroku, build with git actions and docker... school small project.
+Deployed to Heroku, build with git actions and docker... school small project. <br>
 https://search-example-docker.herokuapp.com/
 ## Project setup
 ```
