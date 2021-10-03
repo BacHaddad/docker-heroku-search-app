@@ -1,5 +1,6 @@
 # search-app
-Deployed to Heroku, build with git actions and docker... school small project. <br>
+School small project in Vue.js for Unit-Testing with Jest , Git-actions with Checkouts, Docker and deployed to Heroku. <br>
+Testing continuous integration / continuous deployment. <br>
 https://search-example-docker.herokuapp.com/
 ## Project setup
 ```
