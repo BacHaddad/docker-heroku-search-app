@@ -1,5 +1,6 @@
 # search-app
-
+Deployed to Heroku, build with git actions and docker... school small project.
+https://search-example-docker.herokuapp.com/
 ## Project setup
 ```
 npm install
