@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    
+    <img alt="search" src="./assets/search.jpg" />
     <SearchFilter />
   </div>
 </template>
